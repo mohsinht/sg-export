@@ -1,0 +1,181 @@
+{
+  "pages": [
+    {
+      "id": "b2385e45-d57e-4fa0-a6b0-867dba1a4894",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "knowledge-base",
+      "title": "Knowledge Base",
+      "tier": 1,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "09ac3426-3075-41b7-9a20-e67d5e461238",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "intro",
+          "snippet_title": "Introduction"
+        },
+        {
+          "id": "bb5c1123-e422-4a91-a379-3e12d91b13c7",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "usage",
+          "snippet_title": "Usage"
+        }
+      ]
+    },
+    {
+      "id": "68ab000c-a12c-4268-8733-0453656ccbda",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "knowledge-base-page",
+      "title": "Knowledge Base Page",
+      "tier": 1,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "b0103776-b154-4a19-bd5e-8fe2a7ffdc1d",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "intro",
+          "snippet_title": "Introduction"
+        },
+        {
+          "id": "77cb6450-c9db-4571-9c52-091846d86f97",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "usage",
+          "snippet_title": "Usage"
+        }
+      ]
+    },
+    {
+      "id": "dbc850ab-efac-4dd5-af54-08c77e59b04b",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "sales",
+      "title": "Sales",
+      "tier": 1,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "c4536aba-9128-4907-9507-3653944cca07",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "intro-2",
+          "snippet_title": "Intro"
+        },
+        {
+          "id": "7f44f6e6-052e-43e6-8b17-fc6fd7ca7449",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "problem-statement",
+          "snippet_title": "Problem Statement"
+        },
+        {
+          "id": "bca8c5c6-005f-4293-844a-4994f89e3107",
+          "type": "snippet",
+          "order_index": 2,
+          "snippet_slug": "value-proposition",
+          "snippet_title": "Value Proposition"
+        },
+        {
+          "id": "caa49f19-5cf6-4fd3-a885-e81e83fed22a",
+          "type": "snippet",
+          "order_index": 3,
+          "snippet_slug": "cta-2",
+          "snippet_title": "CTA"
+        }
+      ]
+    },
+    {
+      "id": "a8b77d7b-0897-43f6-997f-2a572db35961",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "support",
+      "title": "Support",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "ea876986-7d80-40ae-9ae0-9e4bf0b90c13",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "intro-2",
+          "snippet_title": "Intro"
+        },
+        {
+          "id": "25631090-9756-4e01-b23e-d73b18d582b1",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "how-it-works",
+          "snippet_title": "How It Works"
+        },
+        {
+          "id": "5259b936-9164-4a8e-a518-9fda645e3952",
+          "type": "snippet",
+          "order_index": 2,
+          "snippet_slug": "faq",
+          "snippet_title": "FAQ"
+        }
+      ]
+    },
+    {
+      "id": "bc8eaeed-cca4-42c6-8160-016278827d60",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "workflow",
+      "title": "Workflow Skill",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "5f596bd6-fab5-4a71-956d-9dc3cd319f54",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "usage",
+          "snippet_title": "Usage"
+        },
+        {
+          "id": "f84b10a8-5995-4ee3-b58d-2d68cd69f22c",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "cta",
+          "snippet_title": "Call to action"
+        }
+      ]
+    },
+    {
+      "id": "c408ef60-32fa-4e83-9810-68f65fd3c8f8",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "workflow-page",
+      "title": "Workflow Page",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "31554be4-90eb-4939-a936-f79e6265e1b8",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "usage",
+          "snippet_title": "Usage"
+        },
+        {
+          "id": "71cd3d86-1c1b-4ec7-930a-72ff34699941",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "cta",
+          "snippet_title": "Call to action"
+        }
+      ]
+    }
+  ]
+}

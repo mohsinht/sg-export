@@ -1,0 +1,77 @@
+{
+  "versionId": "39d150ce-c586-45e3-8631-26cd09805f9c",
+  "versionLabel": 1,
+  "exportHash": "ca6ab8c41f287e02a386ace420161fc07cb04fa9d07b964ffbe0ef385485fbbd",
+  "counts": {
+    "pages": 6,
+    "snippets": 9
+  },
+  "lastUpdatedAt": "2026-02-12T20:55:26.305Z",
+  "githubRef": null,
+  "files": [
+    {
+      "path": "kb/default-kb/knowledge-base-page.md",
+      "hash": "60be54ffb07db88d676bbc2e9ee21160e7659e7fd527a856104a7ac738fcff4a"
+    },
+    {
+      "path": "kb/default-kb/knowledge-base.md",
+      "hash": "572fab97b36b9cdddc930368cb1e3112b79498814ca65b46b88d0a0c7dd1b411"
+    },
+    {
+      "path": "kb/default-kb/sales.md",
+      "hash": "a87c26a74ef6e430309ad5c88fe44329ad0bf960887be3732fc698c140b7cb53"
+    },
+    {
+      "path": "kb/default-kb/support.md",
+      "hash": "aeb92109b160ab9ff5faa77553bb93dc42547327f8305b8d8982aba6782f5b7a"
+    },
+    {
+      "path": "kb/default-kb/workflow-page.md",
+      "hash": "c06569839199d7e8a5629b43b743ce2ea1e5aa7ba64d7798b34bf49eadc2c6cc"
+    },
+    {
+      "path": "kb/default-kb/workflow.md",
+      "hash": "a5487bd4381b5be944936a1fa1aca174b8665b1f04a39dd36f17414e879a937f"
+    },
+    {
+      "path": "snippets/cta-2.md",
+      "hash": "371c72ad2c85694b2ce5a8187fb8b4b68f89d5cf68a9b3f5bbdd65d97c830dce"
+    },
+    {
+      "path": "snippets/cta.md",
+      "hash": "7daeb5318e02b01be3d05d90f8bbe955dbeaf4e769c581777b992cac21f102de"
+    },
+    {
+      "path": "snippets/faq.md",
+      "hash": "578ce991044d61f31dfd06edb50339a5d751ccaec0dcd22e63df311d8ed7a926"
+    },
+    {
+      "path": "snippets/how-it-works.md",
+      "hash": "bcba6b0af4c27c85045139838327d4bfa401bda3e06198fc4acae0df263efadc"
+    },
+    {
+      "path": "snippets/intro-2.md",
+      "hash": "9c341d31bc184b56cc008ab1fa4c85ff536012d55f07a1b1978ac94b37ce914f"
+    },
+    {
+      "path": "snippets/intro.md",
+      "hash": "d5564082532fbe706271c3b29fe36b61eb0dd03da8c8b170be52730f21b9eaa0"
+    },
+    {
+      "path": "snippets/problem-statement.md",
+      "hash": "dfabbbf7a99d7205e329d89d4f98adc19ff9b7bb15059660282a846e39978fe1"
+    },
+    {
+      "path": "snippets/usage.md",
+      "hash": "54df0ddceba396960e4ee1e4756531838d232fe6a557e7cd814da8ed2c313508"
+    },
+    {
+      "path": "snippets/value-proposition.md",
+      "hash": "5f8115084029e512642d47dde2606c599ee8b4365babc3e7e72a983985eec168"
+    },
+    {
+      "path": "tree.json",
+      "hash": "6d8c6c4c5a0d41a01a355e8acc098ee114900383aff75886a34542f429027240"
+    }
+  ]
+}
