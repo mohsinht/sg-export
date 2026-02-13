@@ -1,0 +1,89 @@
+{
+  "versionId": "5f0157a9-a697-4984-9a8e-06455e0e4718",
+  "versionLabel": 1,
+  "exportHash": "9bfcbfcc264f4c3d6370db94b2ef1b2a3f510219a475a88702249ca6fd4bcd12",
+  "counts": {
+    "pages": 9,
+    "snippets": 9
+  },
+  "lastUpdatedAt": "2026-02-13T02:14:26.701Z",
+  "githubRef": null,
+  "files": [
+    {
+      "path": "kb/default-kb/knowledge-base-page.md",
+      "hash": "1c6d5e4c75430c88dd5fce104046bd930bd2b0429924b16bb9e2f9c146632d0e"
+    },
+    {
+      "path": "kb/default-kb/knowledge-base.md",
+      "hash": "f6c8fe6c1f4b1dd109751275db45ad7b217e1b47caabc3af49148865ba9cdc52"
+    },
+    {
+      "path": "kb/default-kb/sales.md",
+      "hash": "a87c26a74ef6e430309ad5c88fe44329ad0bf960887be3732fc698c140b7cb53"
+    },
+    {
+      "path": "kb/default-kb/support.md",
+      "hash": "aeb92109b160ab9ff5faa77553bb93dc42547327f8305b8d8982aba6782f5b7a"
+    },
+    {
+      "path": "kb/default-kb/untitled-page-49lg.md",
+      "hash": "63d8f320c1c18ca2511bc363c58da006f4e48344fd38b2ddfa30d5d8dcc19d08"
+    },
+    {
+      "path": "kb/default-kb/untitled-page-95oa.md",
+      "hash": "b0741875dd3166bfbdd7f929064fa15843a2ead7a91d837ba6e0690c9ba8c4c1"
+    },
+    {
+      "path": "kb/default-kb/untitled-page-auzg.md",
+      "hash": "361b6b21cce763657be0775926182f96e8870da8b1c11625530a295a4e7a3289"
+    },
+    {
+      "path": "kb/default-kb/workflow-page.md",
+      "hash": "c06569839199d7e8a5629b43b743ce2ea1e5aa7ba64d7798b34bf49eadc2c6cc"
+    },
+    {
+      "path": "kb/default-kb/workflow.md",
+      "hash": "a5487bd4381b5be944936a1fa1aca174b8665b1f04a39dd36f17414e879a937f"
+    },
+    {
+      "path": "snippets/cta-2.md",
+      "hash": "371c72ad2c85694b2ce5a8187fb8b4b68f89d5cf68a9b3f5bbdd65d97c830dce"
+    },
+    {
+      "path": "snippets/cta.md",
+      "hash": "7daeb5318e02b01be3d05d90f8bbe955dbeaf4e769c581777b992cac21f102de"
+    },
+    {
+      "path": "snippets/faq.md",
+      "hash": "578ce991044d61f31dfd06edb50339a5d751ccaec0dcd22e63df311d8ed7a926"
+    },
+    {
+      "path": "snippets/how-it-works.md",
+      "hash": "bcba6b0af4c27c85045139838327d4bfa401bda3e06198fc4acae0df263efadc"
+    },
+    {
+      "path": "snippets/intro-2.md",
+      "hash": "9c341d31bc184b56cc008ab1fa4c85ff536012d55f07a1b1978ac94b37ce914f"
+    },
+    {
+      "path": "snippets/intro.md",
+      "hash": "ecec8e0b3554c4d6b9278dd8d28d7e6de630e36db5807759320a76f0ec08856b"
+    },
+    {
+      "path": "snippets/problem-statement.md",
+      "hash": "dfabbbf7a99d7205e329d89d4f98adc19ff9b7bb15059660282a846e39978fe1"
+    },
+    {
+      "path": "snippets/usage.md",
+      "hash": "54df0ddceba396960e4ee1e4756531838d232fe6a557e7cd814da8ed2c313508"
+    },
+    {
+      "path": "snippets/value-proposition.md",
+      "hash": "5f8115084029e512642d47dde2606c599ee8b4365babc3e7e72a983985eec168"
+    },
+    {
+      "path": "tree.json",
+      "hash": "eead73424d551f854d168eea39ddfba87ad4736f171b07ac4d7b5443fb122a45"
+    }
+  ]
+}

@@ -1,0 +1,883 @@
+{
+  "pages": [
+    {
+      "id": "b2385e45-d57e-4fa0-a6b0-867dba1a4894",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "knowledge-base",
+      "title": "Knowledge Base",
+      "tier": 1,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "09ac3426-3075-41b7-9a20-e67d5e461238",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "intro",
+          "snippet_title": "Introduction"
+        },
+        {
+          "id": "0aa8a5ea-4976-4275-9d3b-a3a142f04fd6",
+          "type": "text",
+          "order_index": 1
+        },
+        {
+          "id": "bb5c1123-e422-4a91-a379-3e12d91b13c7",
+          "type": "snippet",
+          "order_index": 2,
+          "snippet_slug": "usage",
+          "snippet_title": "Usage"
+        },
+        {
+          "id": "a581171b-e5f2-4fe8-9420-3a5e1700098f",
+          "type": "text",
+          "order_index": 3
+        },
+        {
+          "id": "e2d290b1-9d7c-4072-b863-9e724e740145",
+          "type": "text",
+          "order_index": 4
+        },
+        {
+          "id": "302fdae0-4e8d-4419-8430-4f36999694ee",
+          "type": "text",
+          "order_index": 5
+        },
+        {
+          "id": "a5c8b9b9-3e00-42ef-9553-b8a8d65dfac0",
+          "type": "text",
+          "order_index": 6
+        },
+        {
+          "id": "eef164d0-f902-44af-9fe9-d73eb00ca0a4",
+          "type": "text",
+          "order_index": 7
+        },
+        {
+          "id": "904aff5e-dc6a-455f-bb28-fd265b63904e",
+          "type": "text",
+          "order_index": 8
+        },
+        {
+          "id": "16919ee8-7669-4040-9f26-a5668db8b082",
+          "type": "text",
+          "order_index": 9
+        },
+        {
+          "id": "eb26f932-8a91-453f-8bce-56513143a2b3",
+          "type": "text",
+          "order_index": 10
+        },
+        {
+          "id": "44c7423a-03e0-4ad6-8f89-e92668b90ef6",
+          "type": "text",
+          "order_index": 11
+        },
+        {
+          "id": "e065942f-109f-4290-a33f-6b4e32303dd3",
+          "type": "text",
+          "order_index": 12
+        },
+        {
+          "id": "3b8de522-8721-490e-95d5-f2dfabcb7444",
+          "type": "text",
+          "order_index": 13
+        },
+        {
+          "id": "501b2633-129d-42e1-ba00-aae9c9990336",
+          "type": "text",
+          "order_index": 14
+        },
+        {
+          "id": "77e19cc5-8137-4f34-9a16-11d464dc46b5",
+          "type": "text",
+          "order_index": 15
+        },
+        {
+          "id": "dd9e233c-c081-4c4c-af23-d1bf20e4fba1",
+          "type": "text",
+          "order_index": 16
+        },
+        {
+          "id": "cf9968eb-79a3-45f8-ac25-56a7d7aab700",
+          "type": "text",
+          "order_index": 17
+        },
+        {
+          "id": "513addea-8d22-40ad-a1ea-422489feb176",
+          "type": "text",
+          "order_index": 18
+        },
+        {
+          "id": "636a89ee-512d-4bb7-8387-c421bd9ae953",
+          "type": "text",
+          "order_index": 19
+        },
+        {
+          "id": "05c5e9b0-8b9b-4750-91d2-2ff808f3895f",
+          "type": "text",
+          "order_index": 20
+        },
+        {
+          "id": "394bb75b-c469-47fe-b1cb-b5e1d7c2b2ae",
+          "type": "text",
+          "order_index": 21
+        },
+        {
+          "id": "078cf4cc-a2a0-4ad4-8c7e-195bfdf53633",
+          "type": "text",
+          "order_index": 22
+        },
+        {
+          "id": "2b1ebbfe-76a0-49fd-8158-21f6d1ee34f0",
+          "type": "text",
+          "order_index": 23
+        },
+        {
+          "id": "84738caf-b7c9-4d4a-8239-f65e8aaed77b",
+          "type": "text",
+          "order_index": 24
+        },
+        {
+          "id": "24a4ae8f-5f58-441a-b896-f3f9e5310324",
+          "type": "text",
+          "order_index": 25
+        },
+        {
+          "id": "9b8d2280-57a4-4db3-b267-27cce229b268",
+          "type": "text",
+          "order_index": 26
+        },
+        {
+          "id": "eb223683-498b-46cc-9414-297ab49a1e0c",
+          "type": "text",
+          "order_index": 27
+        },
+        {
+          "id": "72957a31-7aab-419d-a036-1f4989fb37b9",
+          "type": "text",
+          "order_index": 28
+        },
+        {
+          "id": "7d793439-19f6-459f-9b72-fbae32dd1e58",
+          "type": "text",
+          "order_index": 29
+        },
+        {
+          "id": "1756aa90-c670-4557-9544-4517fa04e2bf",
+          "type": "text",
+          "order_index": 30
+        },
+        {
+          "id": "bdc08488-322a-48af-9b7d-1042256cbcc2",
+          "type": "text",
+          "order_index": 31
+        },
+        {
+          "id": "78eab3f1-86c1-49d9-8404-fd3bbc0b7f29",
+          "type": "text",
+          "order_index": 32
+        },
+        {
+          "id": "ecebfd5f-52d0-42e8-aa8f-2d6052ee7254",
+          "type": "text",
+          "order_index": 33
+        },
+        {
+          "id": "cf4348b9-0bfe-4107-84fe-c53b08899152",
+          "type": "text",
+          "order_index": 34
+        },
+        {
+          "id": "ada97837-764c-4750-9e99-686f279cb833",
+          "type": "text",
+          "order_index": 35
+        },
+        {
+          "id": "78697950-f8a7-4e09-befa-29bd30aa3e7c",
+          "type": "text",
+          "order_index": 36
+        },
+        {
+          "id": "353ac052-5edf-4660-9273-aa66377c6322",
+          "type": "text",
+          "order_index": 37
+        },
+        {
+          "id": "efb1a975-2c52-473b-b057-07ccd8c8db34",
+          "type": "text",
+          "order_index": 38
+        },
+        {
+          "id": "bec3f98a-6470-462e-b356-acbbf722f91e",
+          "type": "text",
+          "order_index": 39
+        },
+        {
+          "id": "202c3c0c-9a43-4393-b56b-e37c1fac1192",
+          "type": "text",
+          "order_index": 40
+        },
+        {
+          "id": "350139b0-040e-43f6-987f-8dfb4fe8d838",
+          "type": "text",
+          "order_index": 41
+        },
+        {
+          "id": "13a4e61c-fb16-4bdd-ac26-1ec68e497bc4",
+          "type": "text",
+          "order_index": 42
+        },
+        {
+          "id": "324016d8-59b1-4da2-922a-c0e678bc773d",
+          "type": "text",
+          "order_index": 43
+        },
+        {
+          "id": "c1a45c34-6c2f-4dee-b086-6f139ac09071",
+          "type": "text",
+          "order_index": 44
+        },
+        {
+          "id": "147af329-f532-4e31-8440-17312ede49b9",
+          "type": "text",
+          "order_index": 45
+        },
+        {
+          "id": "5d799617-1468-4850-af47-4c2e6664a0ac",
+          "type": "text",
+          "order_index": 46
+        },
+        {
+          "id": "2284bf50-8613-414c-81a4-b365de1ec005",
+          "type": "text",
+          "order_index": 47
+        },
+        {
+          "id": "ee1851c4-91cb-479e-9c78-d7ff7cdc44ce",
+          "type": "text",
+          "order_index": 48
+        },
+        {
+          "id": "d161e349-8b8c-4402-a407-9cf7e9ce550c",
+          "type": "text",
+          "order_index": 49
+        },
+        {
+          "id": "197e9ad0-1c74-4c74-baf5-ce52f92f9c59",
+          "type": "text",
+          "order_index": 50
+        },
+        {
+          "id": "e527a5f4-cda5-4029-9fa5-1b527db02bae",
+          "type": "text",
+          "order_index": 51
+        },
+        {
+          "id": "03166d72-1aff-42b8-b059-3e39e998dd7c",
+          "type": "text",
+          "order_index": 52
+        },
+        {
+          "id": "44fbfedb-c990-42e8-b69a-4b283debca8c",
+          "type": "text",
+          "order_index": 53
+        },
+        {
+          "id": "31530baf-4ec3-4785-809b-369404d768e8",
+          "type": "text",
+          "order_index": 54
+        },
+        {
+          "id": "262fcd70-4508-4a71-8109-6e7b4be3613f",
+          "type": "text",
+          "order_index": 55
+        },
+        {
+          "id": "bb187299-4239-4954-ba9e-373387bc62f6",
+          "type": "text",
+          "order_index": 56
+        },
+        {
+          "id": "eb657e41-c731-4d99-859f-e0f280182c68",
+          "type": "text",
+          "order_index": 57
+        },
+        {
+          "id": "05da02da-3ef5-4ee3-b4b2-aa0900e514ad",
+          "type": "text",
+          "order_index": 58
+        },
+        {
+          "id": "3611f40c-aced-4c76-b57c-a47b5b578d9f",
+          "type": "text",
+          "order_index": 59
+        },
+        {
+          "id": "e45e78a7-c834-49fc-b105-f54618e532c4",
+          "type": "text",
+          "order_index": 60
+        },
+        {
+          "id": "47ff9ede-b501-41d4-9d1a-7a8a920a2019",
+          "type": "text",
+          "order_index": 61
+        },
+        {
+          "id": "2bc4a693-89d4-4f15-8483-0d56f258b222",
+          "type": "text",
+          "order_index": 62
+        },
+        {
+          "id": "1c393c21-6d12-4006-8979-fdda0a515d09",
+          "type": "text",
+          "order_index": 63
+        },
+        {
+          "id": "787e3ba4-1a2b-48fb-9430-4ae82c1c3849",
+          "type": "snippet",
+          "order_index": 64,
+          "snippet_slug": "cta",
+          "snippet_title": "Call to action"
+        },
+        {
+          "id": "7f7d3800-abdc-40bd-b59e-f12480138661",
+          "type": "text",
+          "order_index": 65
+        }
+      ]
+    },
+    {
+      "id": "68ab000c-a12c-4268-8733-0453656ccbda",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "knowledge-base-page",
+      "title": "Knowledge Base Page",
+      "tier": 1,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "b0103776-b154-4a19-bd5e-8fe2a7ffdc1d",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "intro",
+          "snippet_title": "Introduction"
+        },
+        {
+          "id": "77cb6450-c9db-4571-9c52-091846d86f97",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "usage",
+          "snippet_title": "Usage"
+        }
+      ]
+    },
+    {
+      "id": "dbc850ab-efac-4dd5-af54-08c77e59b04b",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "sales",
+      "title": "Sales",
+      "tier": 1,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "c4536aba-9128-4907-9507-3653944cca07",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "intro-2",
+          "snippet_title": "Intro"
+        },
+        {
+          "id": "7f44f6e6-052e-43e6-8b17-fc6fd7ca7449",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "problem-statement",
+          "snippet_title": "Problem Statement"
+        },
+        {
+          "id": "bca8c5c6-005f-4293-844a-4994f89e3107",
+          "type": "snippet",
+          "order_index": 2,
+          "snippet_slug": "value-proposition",
+          "snippet_title": "Value Proposition"
+        },
+        {
+          "id": "caa49f19-5cf6-4fd3-a885-e81e83fed22a",
+          "type": "snippet",
+          "order_index": 3,
+          "snippet_slug": "cta-2",
+          "snippet_title": "CTA"
+        }
+      ]
+    },
+    {
+      "id": "a8b77d7b-0897-43f6-997f-2a572db35961",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "support",
+      "title": "Support",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "ea876986-7d80-40ae-9ae0-9e4bf0b90c13",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "intro-2",
+          "snippet_title": "Intro"
+        },
+        {
+          "id": "25631090-9756-4e01-b23e-d73b18d582b1",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "how-it-works",
+          "snippet_title": "How It Works"
+        },
+        {
+          "id": "5259b936-9164-4a8e-a518-9fda645e3952",
+          "type": "snippet",
+          "order_index": 2,
+          "snippet_slug": "faq",
+          "snippet_title": "FAQ"
+        }
+      ]
+    },
+    {
+      "id": "e443f705-0c3f-450a-8e0b-c46da7ff7d19",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "untitled-page-49lg",
+      "title": "Untitled page",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "be17becf-f936-4230-8acb-e64a36eb8b18",
+          "type": "text",
+          "order_index": 0
+        },
+        {
+          "id": "5843c8d3-bf85-4976-acfa-ee761841cc78",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "cta",
+          "snippet_title": "Call to action"
+        },
+        {
+          "id": "3a558092-d0ff-4f29-af08-efa867fa0de8",
+          "type": "text",
+          "order_index": 2
+        }
+      ]
+    },
+    {
+      "id": "3fffabb6-b0f6-4958-8382-f2c57bf04f61",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "untitled-page-95oa",
+      "title": "Untitled page",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "e6f1ab08-ee0c-4443-a6ce-85a31cd7d12f",
+          "type": "text",
+          "order_index": 0
+        },
+        {
+          "id": "e193e65d-ddf1-4c63-bd9c-9c6a5a0e1927",
+          "type": "text",
+          "order_index": 1
+        }
+      ]
+    },
+    {
+      "id": "24cdc5f4-cea1-4b50-87c3-452a945a5743",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "untitled-page-auzg",
+      "title": "Hello",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "17b99e16-92ce-464a-aaa4-5b8bc164ebe7",
+          "type": "text",
+          "order_index": 0
+        },
+        {
+          "id": "c8c49de5-ce29-4a60-bab0-5c8a63ad731f",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "cta-2",
+          "snippet_title": "CTA"
+        },
+        {
+          "id": "3e017f6a-eae1-4423-827e-cdb38cc35810",
+          "type": "text",
+          "order_index": 2
+        },
+        {
+          "id": "b14a7734-0c95-43af-b4d7-20c86c64eb97",
+          "type": "text",
+          "order_index": 3
+        },
+        {
+          "id": "b96fa200-420f-4f80-bfc6-1cf8624a753e",
+          "type": "text",
+          "order_index": 4
+        },
+        {
+          "id": "df7d4fbc-4f33-4257-8dd3-1049f7e27b8e",
+          "type": "text",
+          "order_index": 5
+        },
+        {
+          "id": "2f3f6751-e668-4bce-99db-9c36b16bc401",
+          "type": "text",
+          "order_index": 6
+        },
+        {
+          "id": "13df8f0d-b70d-4d75-b9b5-d4b9187883a4",
+          "type": "text",
+          "order_index": 7
+        },
+        {
+          "id": "d60796f9-1052-4768-bb38-4ed620391dfd",
+          "type": "text",
+          "order_index": 8
+        },
+        {
+          "id": "062d9bec-bc8a-4b11-b78c-00b761e4f224",
+          "type": "text",
+          "order_index": 9
+        },
+        {
+          "id": "27a28895-021e-4be1-a960-64d9ec681ba3",
+          "type": "text",
+          "order_index": 10
+        },
+        {
+          "id": "7e496859-25d7-4210-a0e1-59c95e5c7054",
+          "type": "text",
+          "order_index": 11
+        },
+        {
+          "id": "cc3244c3-8ea8-45b1-af2b-5f275ada700a",
+          "type": "text",
+          "order_index": 12
+        },
+        {
+          "id": "bd04d8f7-b4a7-4b8e-ad85-17ffb3a611ba",
+          "type": "text",
+          "order_index": 13
+        },
+        {
+          "id": "23942806-f649-4707-8a2b-0b558fffc59f",
+          "type": "text",
+          "order_index": 14
+        },
+        {
+          "id": "1f4f8cd4-04ab-4aae-aa83-e3ece1b78b16",
+          "type": "text",
+          "order_index": 15
+        },
+        {
+          "id": "f0e01845-1576-4166-b8f6-0ce516b317d9",
+          "type": "text",
+          "order_index": 16
+        },
+        {
+          "id": "a072264d-98b8-417b-a0c5-a948def4677f",
+          "type": "text",
+          "order_index": 17
+        },
+        {
+          "id": "66343049-5a1d-4895-981c-f964f2f66aae",
+          "type": "text",
+          "order_index": 18
+        },
+        {
+          "id": "cce4a616-611b-47b5-acb0-a7158812abbe",
+          "type": "text",
+          "order_index": 19
+        },
+        {
+          "id": "ac9e84aa-95ca-4e54-bac9-bf83e0536efe",
+          "type": "text",
+          "order_index": 20
+        },
+        {
+          "id": "4d3874d9-e32e-4b9a-901a-454173ead20d",
+          "type": "text",
+          "order_index": 21
+        },
+        {
+          "id": "f7d985f5-38c9-4909-87cd-67f35901996b",
+          "type": "text",
+          "order_index": 22
+        },
+        {
+          "id": "72a837d4-d75e-4add-bce2-50df80a14c5e",
+          "type": "text",
+          "order_index": 23
+        },
+        {
+          "id": "b9e4cf29-98c9-42f9-b181-0f6d0a0d3d7f",
+          "type": "text",
+          "order_index": 24
+        },
+        {
+          "id": "ff8f6e51-a39c-4bd7-9d42-ea9b770f70b1",
+          "type": "text",
+          "order_index": 25
+        },
+        {
+          "id": "0ae28d3d-6368-4474-b321-4fc6ae803619",
+          "type": "text",
+          "order_index": 26
+        },
+        {
+          "id": "90b1e5e1-7e78-4a86-9f8e-ccec276a0f6f",
+          "type": "text",
+          "order_index": 27
+        },
+        {
+          "id": "1c155dca-2ae7-4f2c-849e-290858757bf1",
+          "type": "text",
+          "order_index": 28
+        },
+        {
+          "id": "e9996780-74ef-4f8b-b5af-f710c5f88b5c",
+          "type": "text",
+          "order_index": 29
+        },
+        {
+          "id": "48f1f234-b9ea-4f56-b8fb-f3e5c04b6c1b",
+          "type": "text",
+          "order_index": 30
+        },
+        {
+          "id": "f0b42748-d3d6-442b-aeaa-939029c91820",
+          "type": "text",
+          "order_index": 31
+        },
+        {
+          "id": "25fa5205-3e59-4661-926b-e2ae3b9e2868",
+          "type": "text",
+          "order_index": 32
+        },
+        {
+          "id": "95100067-8cbb-406e-bd14-095e6dc70c2e",
+          "type": "text",
+          "order_index": 33
+        },
+        {
+          "id": "cfe14a95-cb69-4aa6-a754-8fae542a3521",
+          "type": "text",
+          "order_index": 34
+        },
+        {
+          "id": "b8bf1b96-e3af-4e54-8d1a-e0bc20b9b69a",
+          "type": "text",
+          "order_index": 35
+        },
+        {
+          "id": "cc2257c3-04dc-4167-8b59-f3a2a04dc761",
+          "type": "text",
+          "order_index": 36
+        },
+        {
+          "id": "e1d8a70c-65e7-4746-a1ae-9cffa3b40524",
+          "type": "text",
+          "order_index": 37
+        },
+        {
+          "id": "9e3d572b-3488-4197-9090-778a0c47745c",
+          "type": "text",
+          "order_index": 38
+        },
+        {
+          "id": "409ad37a-0e65-41f2-9ef5-965a6c278d04",
+          "type": "text",
+          "order_index": 39
+        },
+        {
+          "id": "0d8e408a-fbe1-4044-af0e-aea24b2efd03",
+          "type": "text",
+          "order_index": 40
+        },
+        {
+          "id": "cad84067-9e37-4a34-a476-671d3c9a4bda",
+          "type": "text",
+          "order_index": 41
+        },
+        {
+          "id": "0df36db2-9444-406f-b63f-2e4de93cc5ff",
+          "type": "text",
+          "order_index": 42
+        },
+        {
+          "id": "c1475492-5d60-451b-8407-1807f33b4096",
+          "type": "text",
+          "order_index": 43
+        },
+        {
+          "id": "ba4a0127-cc37-4ebe-8bdf-61b658388688",
+          "type": "text",
+          "order_index": 44
+        },
+        {
+          "id": "5c107f34-6c2d-4f3d-bcaa-e8b99fc96e42",
+          "type": "text",
+          "order_index": 45
+        },
+        {
+          "id": "011dda3c-6a3b-4ff9-8668-5cd6c3aa5266",
+          "type": "text",
+          "order_index": 46
+        },
+        {
+          "id": "788f7faa-1dc4-47c8-94d1-815a21891d6e",
+          "type": "text",
+          "order_index": 47
+        },
+        {
+          "id": "0f8b0f6c-7d91-462b-8531-4f614639e19e",
+          "type": "text",
+          "order_index": 48
+        },
+        {
+          "id": "28d55d06-e285-4134-9083-69919c6871d7",
+          "type": "text",
+          "order_index": 49
+        },
+        {
+          "id": "f9c4e4b7-7b15-4843-84d1-eac92be8cdf6",
+          "type": "text",
+          "order_index": 50
+        },
+        {
+          "id": "90e33664-18ce-4bba-b2d7-b1722516f0ab",
+          "type": "text",
+          "order_index": 51
+        },
+        {
+          "id": "9a0b4597-eccf-45a3-95e2-c0997f134f50",
+          "type": "text",
+          "order_index": 52
+        },
+        {
+          "id": "48fa471f-d006-4ede-a3e5-5cc961706582",
+          "type": "text",
+          "order_index": 53
+        },
+        {
+          "id": "9109e299-f91b-4b4f-89e5-05ace4c17880",
+          "type": "text",
+          "order_index": 54
+        },
+        {
+          "id": "d354e44d-0c4c-4a7f-b660-31cbd7004edc",
+          "type": "text",
+          "order_index": 55
+        },
+        {
+          "id": "54dd3846-3063-49ab-9761-d90216d1eadd",
+          "type": "text",
+          "order_index": 56
+        },
+        {
+          "id": "0f550164-fa7a-41e9-a104-d77b09e23d0d",
+          "type": "text",
+          "order_index": 57
+        },
+        {
+          "id": "7ed7722e-c656-4543-8ed6-0cf1e58c2598",
+          "type": "text",
+          "order_index": 58
+        },
+        {
+          "id": "39daf0cb-9ca6-4511-9620-97b52aa9259f",
+          "type": "text",
+          "order_index": 59
+        },
+        {
+          "id": "cecdb272-03ac-441e-a531-a840466aa483",
+          "type": "text",
+          "order_index": 60
+        },
+        {
+          "id": "f36fdbcd-68ae-4157-9d70-2ec9a49ae73c",
+          "type": "text",
+          "order_index": 61
+        },
+        {
+          "id": "c5275b5f-84d2-4d0c-8cd3-b3c000f2f4ca",
+          "type": "text",
+          "order_index": 62
+        }
+      ]
+    },
+    {
+      "id": "bc8eaeed-cca4-42c6-8160-016278827d60",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "workflow",
+      "title": "Workflow Skill",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "5f596bd6-fab5-4a71-956d-9dc3cd319f54",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "usage",
+          "snippet_title": "Usage"
+        },
+        {
+          "id": "f84b10a8-5995-4ee3-b58d-2d68cd69f22c",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "cta",
+          "snippet_title": "Call to action"
+        }
+      ]
+    },
+    {
+      "id": "c408ef60-32fa-4e83-9810-68f65fd3c8f8",
+      "kb_id": "e4765c1a-77cb-4c64-a2de-ff76d96b496a",
+      "kb_slug": "default-kb",
+      "slug": "workflow-page",
+      "title": "Workflow Page",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "31554be4-90eb-4939-a936-f79e6265e1b8",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "usage",
+          "snippet_title": "Usage"
+        },
+        {
+          "id": "71cd3d86-1c1b-4ec7-930a-72ff34699941",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "cta",
+          "snippet_title": "Call to action"
+        }
+      ]
+    }
+  ]
+}
