@@ -1,37 +1,89 @@
 {
-  "versionId": "39179965-803b-4e2c-9e9e-b8a72939fa71",
-  "versionLabel": 2,
-  "exportHash": "6752432faee57b6ffa3fa8859a790558e757c7b7249c95f252dd9bc1b31415d0",
+  "versionId": "c50a248d-01f5-4341-9c20-4a943230311b",
+  "versionLabel": 1,
+  "exportHash": "ddf54136270b7ce4e408e7607abeae0787f28dcc0c29bd749780610caff6c5b4",
   "counts": {
-    "pages": 2,
-    "snippets": 3
+    "pages": 9,
+    "snippets": 9
   },
-  "lastUpdatedAt": "2026-02-13T14:05:11.443Z",
+  "lastUpdatedAt": "2026-02-13T20:54:53.724Z",
   "githubRef": null,
   "files": [
     {
-      "path": "kb/k3-product-education-2/feature-walkthrough-page-2.md",
-      "hash": "1b76ca6e1061b0b683661a44c14b55afd8e925200e61cb305c1fcf0f993353c8"
+      "path": "kb/default-kb/knowledge-base-page.md",
+      "hash": "1c6d5e4c75430c88dd5fce104046bd930bd2b0429924b16bb9e2f9c146632d0e"
     },
     {
-      "path": "kb/k3-product-education-2/untitled-page-ivvf.md",
-      "hash": "a9b1019e6fb28fa653446aaa3f67c0b22678efceb064e8521817f757201493e5"
+      "path": "kb/default-kb/knowledge-base.md",
+      "hash": "a0e45e3c720cfab0c0cbf70dacf5ee07943e7092ab1f07fe0345f49e5e228d46"
     },
     {
-      "path": "snippets/implementation-steps-2.md",
-      "hash": "d3696f6048e0f0a31794cdb363631a0258bd27b6fbceae2b1353ef309822e685"
+      "path": "kb/default-kb/sales.md",
+      "hash": "a87c26a74ef6e430309ad5c88fe44329ad0bf960887be3732fc698c140b7cb53"
     },
     {
-      "path": "snippets/intro-opener-2.md",
-      "hash": "0b616e2fd1a8f5b8b34f35549c12dbd4938da308319ecf5115dd3943fc5fb78f"
+      "path": "kb/default-kb/support.md",
+      "hash": "aeb92109b160ab9ff5faa77553bb93dc42547327f8305b8d8982aba6782f5b7a"
     },
     {
-      "path": "snippets/value-narrative-2.md",
-      "hash": "897578e946c0edb62edc765d0264ca9957eb45746fc9fd45262586b9bd8e12ca"
+      "path": "kb/default-kb/untitled-page-49lg.md",
+      "hash": "9965158dbee8e8a83358d8bc2da9e7a77b7162bdcdc07bab1522481e71b2d44e"
+    },
+    {
+      "path": "kb/default-kb/untitled-page-95oa.md",
+      "hash": "c36b80abc00ebf1968b77dc3397c9742cfe4f0b54680566eee52f3c231c6846b"
+    },
+    {
+      "path": "kb/default-kb/untitled-page-auzg.md",
+      "hash": "aabd55cf4dc20d341aa38bfc821b705224f6a8da6733883f2f2b823f50c31f41"
+    },
+    {
+      "path": "kb/default-kb/workflow-page.md",
+      "hash": "4436e22c88f25641aa9749c4a30145de9f6fc2961ab4d8be4ca880eaa0ff4078"
+    },
+    {
+      "path": "kb/default-kb/workflow.md",
+      "hash": "3bd03ea7718232742be0f8c85e98dd6f9ecdb4d2f502c2d1fbb6b3208df9dc47"
+    },
+    {
+      "path": "snippets/cta-2.md",
+      "hash": "371c72ad2c85694b2ce5a8187fb8b4b68f89d5cf68a9b3f5bbdd65d97c830dce"
+    },
+    {
+      "path": "snippets/cta.md",
+      "hash": "b5dd66aa6b2f5f74518eafdf13d1f670faaebac338025d19affbfde5775e645c"
+    },
+    {
+      "path": "snippets/faq.md",
+      "hash": "578ce991044d61f31dfd06edb50339a5d751ccaec0dcd22e63df311d8ed7a926"
+    },
+    {
+      "path": "snippets/how-it-works.md",
+      "hash": "bcba6b0af4c27c85045139838327d4bfa401bda3e06198fc4acae0df263efadc"
+    },
+    {
+      "path": "snippets/intro-2.md",
+      "hash": "9c341d31bc184b56cc008ab1fa4c85ff536012d55f07a1b1978ac94b37ce914f"
+    },
+    {
+      "path": "snippets/intro.md",
+      "hash": "ecec8e0b3554c4d6b9278dd8d28d7e6de630e36db5807759320a76f0ec08856b"
+    },
+    {
+      "path": "snippets/problem-statement.md",
+      "hash": "dfabbbf7a99d7205e329d89d4f98adc19ff9b7bb15059660282a846e39978fe1"
+    },
+    {
+      "path": "snippets/usage.md",
+      "hash": "54df0ddceba396960e4ee1e4756531838d232fe6a557e7cd814da8ed2c313508"
+    },
+    {
+      "path": "snippets/value-proposition.md",
+      "hash": "5f8115084029e512642d47dde2606c599ee8b4365babc3e7e72a983985eec168"
     },
     {
       "path": "tree.json",
-      "hash": "0ba81e60d83360ecac5d5aee9e466ffa13dd1e7e96d7a8bfff3e2ed6351df987"
+      "hash": "5723667a320d871a3bdd6152e5297c26e3c34435a1e532c421588f767e963d63"
     }
   ]
 }
