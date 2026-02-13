@@ -7,7 +7,7 @@
       "slug": "feature-walkthrough-page-2",
       "title": "Feature walkthrough page",
       "tier": 2,
-      "status": "draft",
+      "status": "live",
       "parent_id": null,
       "blocks": [
         {
@@ -23,28 +23,23 @@
           "order_index": 1
         },
         {
-          "id": "3e342cce-6063-412d-9ed9-5985a5ea3395",
-          "type": "text",
-          "order_index": 2
-        },
-        {
           "id": "0f672dd5-7a33-4983-b9ae-28e2edb2e268",
           "type": "snippet",
-          "order_index": 3,
+          "order_index": 2,
           "snippet_slug": "value-narrative-2",
           "snippet_title": "Value narrative"
         },
         {
           "id": "a7461b58-edf1-4d5b-a719-0f5dfb78d703",
           "type": "snippet",
-          "order_index": 4,
+          "order_index": 3,
           "snippet_slug": "implementation-steps-2",
           "snippet_title": "Implementation steps"
         },
         {
           "id": "6145d4a5-2bc5-46dc-bfc7-bb6430a68518",
           "type": "text",
-          "order_index": 5
+          "order_index": 4
         }
       ]
     },
@@ -55,7 +50,7 @@
       "slug": "untitled-page-ivvf",
       "title": "h",
       "tier": 2,
-      "status": "draft",
+      "status": "live",
       "parent_id": null,
       "blocks": [
         {
