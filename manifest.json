@@ -1,33 +1,37 @@
 {
-  "versionId": "5cb50d70-85d2-46a8-a55f-dab65653a3ca",
-  "versionLabel": 1,
-  "exportHash": "271dfce56163a99385046f59dbcc385241c43a88bbb77afd323bd9c8c139771e",
+  "versionId": "39179965-803b-4e2c-9e9e-b8a72939fa71",
+  "versionLabel": 2,
+  "exportHash": "6752432faee57b6ffa3fa8859a790558e757c7b7249c95f252dd9bc1b31415d0",
   "counts": {
-    "pages": 1,
+    "pages": 2,
     "snippets": 3
   },
-  "lastUpdatedAt": "2026-02-13T02:13:00.529Z",
+  "lastUpdatedAt": "2026-02-13T14:05:11.443Z",
   "githubRef": null,
   "files": [
     {
-      "path": "kb/k2-customer-success-2/onboarding-guide-page-2.md",
-      "hash": "25b0ad5401d17ccde1a23a23d10ee345c74dc8e9a6b6e7a31fbf867075f9ee22"
+      "path": "kb/k3-product-education-2/feature-walkthrough-page-2.md",
+      "hash": "1b76ca6e1061b0b683661a44c14b55afd8e925200e61cb305c1fcf0f993353c8"
     },
     {
-      "path": "snippets/faq-objection-handling-2.md",
-      "hash": "0a8e1b4ecb5c517fb7bfb7384e9e9dd563a965745443ea6baed99773779ffe62"
+      "path": "kb/k3-product-education-2/untitled-page-ivvf.md",
+      "hash": "a9b1019e6fb28fa653446aaa3f67c0b22678efceb064e8521817f757201493e5"
     },
     {
       "path": "snippets/implementation-steps-2.md",
-      "hash": "14b7aa074a37721e45c26b33d348baa5b3d8ba85133054589c35d9ccf67cb3bd"
+      "hash": "d3696f6048e0f0a31794cdb363631a0258bd27b6fbceae2b1353ef309822e685"
     },
     {
       "path": "snippets/intro-opener-2.md",
       "hash": "0b616e2fd1a8f5b8b34f35549c12dbd4938da308319ecf5115dd3943fc5fb78f"
     },
     {
+      "path": "snippets/value-narrative-2.md",
+      "hash": "897578e946c0edb62edc765d0264ca9957eb45746fc9fd45262586b9bd8e12ca"
+    },
+    {
       "path": "tree.json",
-      "hash": "6d4a61d6fdda4760c5e0ef67a985f9b38e7d5251118b31c4fd2e37afc6c607d6"
+      "hash": "0ba81e60d83360ecac5d5aee9e466ffa13dd1e7e96d7a8bfff3e2ed6351df987"
     }
   ]
 }
