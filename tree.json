@@ -1,62 +1,83 @@
 {
   "pages": [
     {
-      "id": "229de090-f69c-4f5c-8fcb-59ac8b6b4ee2",
-      "kb_id": "05f4b737-de7a-488b-9074-c3643c426210",
-      "kb_slug": "k3-product-education-2",
-      "slug": "feature-walkthrough-page-2",
-      "title": "Feature walkthrough page",
+      "id": "64b32bac-9409-4014-85a4-bfb9ff53faf5",
+      "kb_id": "2abd2f1c-d831-4404-aa50-2226b2b22f7c",
+      "kb_slug": "taskbarter",
+      "slug": "untitled-page-8qcj",
+      "title": "Taskbarter Intro",
       "tier": 2,
-      "status": "live",
+      "status": "draft",
       "parent_id": null,
       "blocks": [
         {
-          "id": "bbd11e6f-01e4-45be-baf7-546abb271329",
-          "type": "snippet",
-          "order_index": 0,
-          "snippet_slug": "intro-opener-2",
-          "snippet_title": "Intro opener"
+          "id": "5603bd87-8ff8-465a-895a-aeb4515932ec",
+          "type": "text",
+          "order_index": 0
         },
         {
-          "id": "24aa21f9-ece0-47c4-8b85-557863418966",
+          "id": "9038acab-a6c8-4763-8a33-4315b91d070f",
+          "type": "text",
+          "order_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2a7ddc88-8175-44c1-92fe-a8d843f1648b",
+      "kb_id": "2abd2f1c-d831-4404-aa50-2226b2b22f7c",
+      "kb_slug": "taskbarter",
+      "slug": "untitled-page-ag61",
+      "title": "Points",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "4295e0b5-3bf3-4649-9e85-5ad64a095d93",
+          "type": "text",
+          "order_index": 0
+        },
+        {
+          "id": "b56ca16b-ae57-4add-871c-9b6ef13341f8",
           "type": "text",
           "order_index": 1
         },
         {
-          "id": "0f672dd5-7a33-4983-b9ae-28e2edb2e268",
-          "type": "snippet",
-          "order_index": 2,
-          "snippet_slug": "value-narrative-2",
-          "snippet_title": "Value narrative"
+          "id": "13c01952-e857-4bf1-8903-9bd62b017014",
+          "type": "text",
+          "order_index": 2
         },
         {
-          "id": "a7461b58-edf1-4d5b-a719-0f5dfb78d703",
-          "type": "snippet",
-          "order_index": 3,
-          "snippet_slug": "implementation-steps-2",
-          "snippet_title": "Implementation steps"
+          "id": "82aa5fe9-55d0-40fb-ba24-28aa7f85ee91",
+          "type": "text",
+          "order_index": 3
         },
         {
-          "id": "6145d4a5-2bc5-46dc-bfc7-bb6430a68518",
+          "id": "c2bf37c3-aeb6-4b4b-bd65-295f7dadef22",
           "type": "text",
           "order_index": 4
         }
       ]
     },
     {
-      "id": "8df24b5a-22ea-4893-bbcf-111895b1c19b",
-      "kb_id": "05f4b737-de7a-488b-9074-c3643c426210",
-      "kb_slug": "k3-product-education-2",
-      "slug": "untitled-page-ivvf",
-      "title": "h",
+      "id": "e39be297-01d0-4fc8-9db8-b7fd92155a82",
+      "kb_id": "2abd2f1c-d831-4404-aa50-2226b2b22f7c",
+      "kb_slug": "taskbarter",
+      "slug": "untitled-page-bmjt",
+      "title": "How I built it",
       "tier": 2,
-      "status": "live",
+      "status": "draft",
       "parent_id": null,
       "blocks": [
         {
-          "id": "b7323375-607c-484a-bcce-c747feb9fa47",
+          "id": "47eae29f-89e5-4980-8a0c-7e96bc4835e1",
           "type": "text",
           "order_index": 0
+        },
+        {
+          "id": "625954ed-5ba2-49de-8aaa-997f6fcb7158",
+          "type": "text",
+          "order_index": 1
         }
       ]
     }

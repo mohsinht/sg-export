@@ -1,37 +1,29 @@
 {
-  "versionId": "0bfa2f85-0634-44b6-822c-855703314c7b",
-  "versionLabel": 3,
-  "exportHash": "a11fbfaebe629822b3031bb560b46c51a94d7265c17521b997e24cbade39371f",
+  "versionId": "65c82398-bc76-4332-a1df-2d2a0b08d9fc",
+  "versionLabel": 1,
+  "exportHash": "7da16c1678e8071b806b6a31a0be07300fbcc86cf79adc2f722b79bb19e67602",
   "counts": {
-    "pages": 2,
-    "snippets": 3
+    "pages": 3,
+    "snippets": 0
   },
-  "lastUpdatedAt": "2026-02-13T20:43:12.592Z",
+  "lastUpdatedAt": "2026-02-13T21:25:46.031Z",
   "githubRef": null,
   "files": [
     {
-      "path": "kb/k3-product-education-2/feature-walkthrough-page-2.md",
-      "hash": "f8c18ef28793ff254d893952ee8a2431c089c066e40445d9315cd67e94aea31b"
+      "path": "kb/taskbarter/untitled-page-8qcj.md",
+      "hash": "b9b78cb83a171b1f2b36ddb28111f59c33b2ddefc740246b72a790ae4d39cba2"
     },
     {
-      "path": "kb/k3-product-education-2/untitled-page-ivvf.md",
-      "hash": "0fba0d39d9f451d009f9ac89bb779876afbc221e838983351cfe6522c1503178"
+      "path": "kb/taskbarter/untitled-page-ag61.md",
+      "hash": "5df8b8a41947a70327bee5ce009a374229516b29a00711df877bc977c71b3d47"
     },
     {
-      "path": "snippets/implementation-steps-2.md",
-      "hash": "d3696f6048e0f0a31794cdb363631a0258bd27b6fbceae2b1353ef309822e685"
-    },
-    {
-      "path": "snippets/intro-opener-2.md",
-      "hash": "0b616e2fd1a8f5b8b34f35549c12dbd4938da308319ecf5115dd3943fc5fb78f"
-    },
-    {
-      "path": "snippets/value-narrative-2.md",
-      "hash": "897578e946c0edb62edc765d0264ca9957eb45746fc9fd45262586b9bd8e12ca"
+      "path": "kb/taskbarter/untitled-page-bmjt.md",
+      "hash": "6a16c9559c68d6c91f3d3489e6c1f3bcefba675b3f09a7a8095c7f0e0b937b78"
     },
     {
       "path": "tree.json",
-      "hash": "c459733e52fc6901f522f455fc874cd08f243d9ace58fdbe9406517c2bd0cd28"
+      "hash": "92eaea821f474a5683df123225e5ef7fde736ca3f7b04aee88d8234c377da4d1"
     }
   ]
 }
