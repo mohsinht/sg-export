@@ -1,0 +1,33 @@
+{
+  "versionId": "e6a71986-89f5-4780-83db-12c5ed6134ac",
+  "versionLabel": 1,
+  "exportHash": "1a4c65b5795f0a20b0b673aa6b749ea277c8fde73935b6a04aa6d6b160d1e6e1",
+  "counts": {
+    "pages": 1,
+    "snippets": 3
+  },
+  "lastUpdatedAt": "2026-02-13T00:55:25.974Z",
+  "githubRef": null,
+  "files": [
+    {
+      "path": "kb/k2-customer-success/onboarding-guide-page.md",
+      "hash": "12fd0e1cf2caaa8888f20da1aba90b8399b48b0869947e6ddeaa8fd8b25c7371"
+    },
+    {
+      "path": "snippets/faq-objection-handling.md",
+      "hash": "bc2f049c780e9b5b1c2799c63df62963b64d5a9b9215f812cdf4abc20e21a733"
+    },
+    {
+      "path": "snippets/implementation-steps.md",
+      "hash": "1d2fdfc1a42b47fec20fd2a204534122cd993a50a141ffcbe74b741f96171231"
+    },
+    {
+      "path": "snippets/intro-opener.md",
+      "hash": "611f0ae8ca7ca989733151c9848de98553beca45b3d1d29976489254e64e4d1f"
+    },
+    {
+      "path": "tree.json",
+      "hash": "3c7f1a7707d69f8e699b20040ef2e239eb58bed00efb62719c833529d4f57ece"
+    }
+  ]
+}

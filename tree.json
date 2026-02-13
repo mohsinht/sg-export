@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "id": "fef71c65-be94-44d1-af11-027b51cc07ef",
+      "kb_id": "7df221b6-e0ed-4263-af3f-bd4436ea793a",
+      "kb_slug": "k2-customer-success",
+      "slug": "onboarding-guide-page",
+      "title": "Onboarding guide page",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "478d36ff-bb6b-416f-9bd9-43f695c92488",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "intro-opener",
+          "snippet_title": "Intro opener"
+        },
+        {
+          "id": "dc2a69fe-14cc-488f-a437-6d7fc4f6d488",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "implementation-steps",
+          "snippet_title": "Implementation steps"
+        },
+        {
+          "id": "6b295efe-fdb1-4199-aed9-e017581223c3",
+          "type": "snippet",
+          "order_index": 2,
+          "snippet_slug": "faq-objection-handling",
+          "snippet_title": "FAQ objection handling"
+        },
+        {
+          "id": "b5863f47-1a31-4212-be08-ad7eaf75c21d",
+          "type": "text",
+          "order_index": 3
+        }
+      ]
+    }
+  ]
+}
