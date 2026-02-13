@@ -1,0 +1,37 @@
+{
+  "pages": [
+    {
+      "id": "229de090-f69c-4f5c-8fcb-59ac8b6b4ee2",
+      "kb_id": "05f4b737-de7a-488b-9074-c3643c426210",
+      "kb_slug": "k3-product-education-2",
+      "slug": "feature-walkthrough-page-2",
+      "title": "Feature walkthrough page",
+      "tier": 2,
+      "status": "draft",
+      "parent_id": null,
+      "blocks": [
+        {
+          "id": "bbd11e6f-01e4-45be-baf7-546abb271329",
+          "type": "snippet",
+          "order_index": 0,
+          "snippet_slug": "intro-opener-2",
+          "snippet_title": "Intro opener"
+        },
+        {
+          "id": "0f672dd5-7a33-4983-b9ae-28e2edb2e268",
+          "type": "snippet",
+          "order_index": 1,
+          "snippet_slug": "value-narrative-2",
+          "snippet_title": "Value narrative"
+        },
+        {
+          "id": "a7461b58-edf1-4d5b-a719-0f5dfb78d703",
+          "type": "snippet",
+          "order_index": 2,
+          "snippet_slug": "implementation-steps-2",
+          "snippet_title": "Implementation steps"
+        }
+      ]
+    }
+  ]
+}

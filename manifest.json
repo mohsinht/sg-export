@@ -1,0 +1,33 @@
+{
+  "versionId": "651a0f2c-0e54-47bc-abe0-828d1b4e6bdf",
+  "versionLabel": 1,
+  "exportHash": "394a284f15af6e7c34161a4446d29d1538459233e992b76ee2cff79942134198",
+  "counts": {
+    "pages": 1,
+    "snippets": 3
+  },
+  "lastUpdatedAt": "2026-02-13T02:13:00.529Z",
+  "githubRef": null,
+  "files": [
+    {
+      "path": "kb/k3-product-education-2/feature-walkthrough-page-2.md",
+      "hash": "4f8df5ff6019b8878b4107b66f5d22a4cdf51c884ba91fe0e3049a6542afeab7"
+    },
+    {
+      "path": "snippets/implementation-steps-2.md",
+      "hash": "14b7aa074a37721e45c26b33d348baa5b3d8ba85133054589c35d9ccf67cb3bd"
+    },
+    {
+      "path": "snippets/intro-opener-2.md",
+      "hash": "0b616e2fd1a8f5b8b34f35549c12dbd4938da308319ecf5115dd3943fc5fb78f"
+    },
+    {
+      "path": "snippets/value-narrative-2.md",
+      "hash": "897578e946c0edb62edc765d0264ca9957eb45746fc9fd45262586b9bd8e12ca"
+    },
+    {
+      "path": "tree.json",
+      "hash": "661809cd62a80e7012581573635bd662ceccdec640acfdea9bdcf5bb0db96b0f"
+    }
+  ]
+}
